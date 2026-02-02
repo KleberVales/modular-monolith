@@ -7,3 +7,6 @@ A Modular Monolith is a software architecture style where an application is buil
 
 - **Single Deployment Unit**  
 The entire application is packaged and deployed together, unlike microservices where each service is deployed separately.
+
+- **Internal Modularity**  
+The codebase is divided into modules with clear boundaries. Each module encapsulates its own domain logic, data, and interfaces.
