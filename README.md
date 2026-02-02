@@ -42,6 +42,8 @@ Often used to define module boundaries based on business domains, making the sys
 - **Scaling Limits:** While more scalable than a traditional monolith, it doesn’t reach the flexibility of microservices.
 - **Team Coordination:** Larger teams may still face bottlenecks since deployment is unified.
 
+### Real-World Context
+
 
 
 
