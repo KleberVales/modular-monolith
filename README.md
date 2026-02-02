@@ -36,6 +36,8 @@ Often used to define module boundaries based on business domains, making the sys
 - **Performance:** Internal calls are faster than network calls in microservices.
 - **Evolution Path:** A modular monolith can later be split into microservices if needed.
 
+### Challenges
+
 
 
 
