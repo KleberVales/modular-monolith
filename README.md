@@ -38,6 +38,8 @@ Often used to define module boundaries based on business domains, making the sys
 
 ### Challenges
 
+- **Discipline Required:** Developers must enforce module boundaries; otherwise, it can degrade into a "spaghetti monolith."
+
 
 
 
