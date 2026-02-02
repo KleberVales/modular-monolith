@@ -48,6 +48,7 @@ Many companies start with a modular monolith because:
 
 - It avoids premature complexity of microservices.
 - It allows fast iteration and simpler infrastructure.
+- It provides a natural stepping stone toward microservices if the system grows very large.
 
 
 
