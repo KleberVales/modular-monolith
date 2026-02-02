@@ -13,3 +13,6 @@ The codebase is divided into modules with clear boundaries. Each module encapsul
 
 - **Strong Encapsulation**  
 Modules interact through well-defined APIs, preventing tight coupling and reducing accidental dependencies.
+
+- **Domain-Driven Design (DDD)**  
+Often used to define module boundaries based on business domains, making the system easier to evolve.
