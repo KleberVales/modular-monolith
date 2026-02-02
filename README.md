@@ -44,6 +44,8 @@ Often used to define module boundaries based on business domains, making the sys
 
 ### Real-World Context
 
+Many companies start with a modular monolith because:
+
 
 
 
