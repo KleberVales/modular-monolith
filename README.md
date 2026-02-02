@@ -16,3 +16,5 @@ Modules interact through well-defined APIs, preventing tight coupling and reduci
 
 - **Domain-Driven Design (DDD)**  
 Often used to define module boundaries based on business domains, making the system easier to evolve.
+
+### Comparison: Monolith vs. Modular Monolith vs. Microservices
