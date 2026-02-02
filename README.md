@@ -18,3 +18,13 @@ Modules interact through well-defined APIs, preventing tight coupling and reduci
 Often used to define module boundaries based on business domains, making the system easier to evolve.
 
 ### Comparison: Monolith vs. Modular Monolith vs. Microservices
+
+| Feature           | Monolith (Traditional) | Modular Monolith                  | Microservices                         |
+|-------------------|------------------------|-----------------------------------|---------------------------------------|
+| Deployment        | Single unit            | Single unit                       | Multiple units                        |
+| Code Organization | Often tangled          | Clear modules                     | Independent services                  |
+| Scalability       | Limited                | Moderate                          | High (per service)                    |
+| Complexity        | Low initially, grows   | Balanced                          | High (distributed systems)            |
+| Communication     | Direct calls           | Internal APIs                     | Network calls (REST/gRPC)             |
+| Best Use Case     | Small apps             | Medium/large apps needing structure | Very large, distributed systems     |
+
