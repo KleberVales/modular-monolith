@@ -39,6 +39,7 @@ Often used to define module boundaries based on business domains, making the sys
 ### Challenges
 
 - **Discipline Required:** Developers must enforce module boundaries; otherwise, it can degrade into a "spaghetti monolith."
+- **Scaling Limits:** While more scalable than a traditional monolith, it doesn’t reach the flexibility of microservices.
 
 
 
