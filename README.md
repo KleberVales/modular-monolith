@@ -34,6 +34,7 @@ Often used to define module boundaries based on business domains, making the sys
 - **Simpler Deployment:** No need for complex infrastructure like service discovery or API gateways.
 - **Maintainability:** Modules reduce codebase complexity and make refactoring easier.
 - **Performance:** Internal calls are faster than network calls in microservices.
+- **Evolution Path:** A modular monolith can later be split into microservices if needed.
 
 
 
