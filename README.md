@@ -47,6 +47,7 @@ Often used to define module boundaries based on business domains, making the sys
 Many companies start with a modular monolith because:
 
 - It avoids premature complexity of microservices.
+- It allows fast iteration and simpler infrastructure.
 
 
 
