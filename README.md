@@ -31,6 +31,9 @@ Often used to define module boundaries based on business domains, making the sys
 
 ### Benefits of Modular Monolith
 
+- **Simpler Deployment:** No need for complex infrastructure like service discovery or API gateways.
+- **Maintainability:** Modules reduce codebase complexity and make refactoring easier.
+
 
 
 
