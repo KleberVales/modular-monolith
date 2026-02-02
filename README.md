@@ -5,5 +5,5 @@ A Modular Monolith is a software architecture style where an application is buil
 
 ### Key Concepts of Modular Monolith
 
-- Single Deployment Unit  
+- **Single Deployment Unit**  
 The entire application is packaged and deployed together, unlike microservices where each service is deployed separately.
