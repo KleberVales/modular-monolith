@@ -28,3 +28,12 @@ Often used to define module boundaries based on business domains, making the sys
 | Communication     | Direct calls           | Internal APIs                     | Network calls (REST/gRPC)             |
 | Best Use Case     | Small apps             | Medium/large apps needing structure | Very large, distributed systems     |
 
+
+### Benefits of Modular Monolith
+
+
+
+
+
+
+
