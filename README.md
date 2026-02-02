@@ -10,3 +10,6 @@ The entire application is packaged and deployed together, unlike microservices w
 
 - **Internal Modularity**  
 The codebase is divided into modules with clear boundaries. Each module encapsulates its own domain logic, data, and interfaces.
+
+- **Strong Encapsulation**  
+Modules interact through well-defined APIs, preventing tight coupling and reducing accidental dependencies.
